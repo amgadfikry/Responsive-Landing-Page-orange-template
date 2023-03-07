@@ -1,34 +1,34 @@
 # Landing Page Template
 Responsive landing page based on ideas of other landing pages
 
-### Links:
+### Links
 ---
 [Demo](https://amgadfikry.github.io/Responsive-Landing-Page-orange-template/)
 
 [Code Source](https://github.com/amgadfikry/Responsive-Landing-Page-orange-template)
 
-### Table of content:
+### Table of content
 ---
 
 - [Landing Page Template](#landing-page-template)
-    - [Links:](#links)
-    - [Table of content:](#table-of-content)
-    - [About the project:](#about-the-project)
-    - [Screenshots:](#screenshots)
-    - [Technologies:](#technologies)
-    - [status:](#status)
-    - [Credits:](#credits)
+    - [Links](#links)
+    - [Table of content](#table-of-content)
+    - [About the project](#about-the-project)
+    - [Screenshots](#screenshots)
+    - [Technologies](#technologies)
+    - [status](#status)
+    - [Credits](#credits)
 
-### About the project:
+### About the project
 ---
 Responsive landing page template with multiple sections, sign in and sign up window 
 and interactive page.
 
-### Screenshots:
+### Screenshots
 ---
 ![screenshot](./images/screenshot.png)
 
-### Technologies:
+### Technologies
 ---
 - HTML
 - CSS
@@ -36,10 +36,10 @@ and interactive page.
 - Github
 - FontAwesome
 
-### status:
+### status
 ---
 This is final version of landing page
 
-### Credits:
+### Credits
 ---
 by Amgad Fikry Mohamed
